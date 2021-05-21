@@ -1,1 +1,1 @@
-# code-examples
+# Hello! My name is Giovanni Danforth and here are some examples of my work. I have been teaching myself Python and SQL using the Data Scientists career track on Codecademy, and have been having a lot of fun figuring out how to use code to manipulate, understand, and present data. Most recentely, I have been fortunate enough to be able to assist a local non-profit glean answers from their data that they were able to use to secure some grant funding!
